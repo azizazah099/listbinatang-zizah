@@ -1,0 +1,238 @@
+body {
+    text-align: center;
+    background-color: darkslategray;
+}
+body {
+    
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      
+}
+
+
+
+.top {
+    background: url(cheetah2.jpg) center no-repeat;
+      background-size: cover;
+    background-size: cover;
+    height: 250px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #ffffff;
+    
+  }
+
+  .top::after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(68, 54, 54, 0.678);
+   
+  }
+  .top h1{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .top h1 {
+
+        color: #fff;
+        z-index: 10;
+        font-family: "Sofia", sans-serif;
+        font-size: 100px;
+      }
+    
+      .container {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+        margin-top: 0;
+        margin-right: auto;
+        margin-bottom: 0;
+        margin-left: auto;
+        padding-bottom: 50px;
+      }
+      .animal-list > li {
+        background: #fff;
+        border-radius: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 25px 0;
+        padding: 20px 20px;
+      } 
+
+.animal-list 
+{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 25px 0;
+    padding: 20px 20px;
+  }
+  .animal-list > li h2 {
+    width: 100%;
+    float: center;
+  
+  }
+              .animal-list
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+ 
+  .familia-list {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    float: center;
+    
+  }
+  .familia-list{
+    margin: 0;
+      margin-top: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    float: center;
+    
+    
+  }
+ 
+.familia-list li 
+{width: 40%;
+        list-style: none;
+        float: center;
+      }
+      
+     
+      h2 {
+        color: black;
+        text-align: left;
+        font-size: 20px;
+    
+    }
+    h3 {color: black;
+        text-align: left;
+        font-size: 15px;
+
+    }
+
+
+    .familia-listt {
+      margin: 0;
+        margin-top: 0px;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .familia-listt li {
+      width: 48%;
+      list-style: none;
+    }
+    .familia-listt{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    .familia-listt {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      float: center;
+      
+    }
+    .familia-listt{
+      margin: 0;
+        margin-top: 0px;
+      padding: 0;
+      box-sizing: border-box;
+      float: center;
+      
+      
+    }
+   
+        .familia-listt li {
+          width: 40%;
+          list-style: none;
+          float: center;
+        }
+
+    
+
+
+
+
+        .familia-listtt {
+          margin: 0;
+            margin-top: 0px;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        .familia-listtt li {
+          width: 48%;
+          list-style: none;
+        }
+        .familia-listtt{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+        .familia-listtt {
+          margin-top: 10px;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+          float: center;
+          
+        }
+        .familia-listtt {
+          margin: 0;
+            margin-top: 0px;
+          padding: 0;
+          box-sizing: border-box;
+          float: center;
+          
+          
+        }
+       
+            .familia-listtt li {
+              width: 40%;
+              list-style: none;
+              float: center;
+            }
+            .source {
+              background: #77c591;
+              display: flex;
+              padding: 15px 0;
+              justify-content: center;
+            }
+            .source h2 {
+              font-family: 'Fira Sans Condensed', sans-serif;
+              color: #343a42;
+            }
+            .source ol {
+              margin-left: 30px;
+              display: flex;
+              align-items: center;
+            }
+
+            .source ol li {
+              margin-right: 40px;
+              color: #fff;
+            }
+            .source {
+              margin: 0;
+                margin-right: 0px;
+              padding: 0;
+              box-sizing: border-box;
+            }
+           
